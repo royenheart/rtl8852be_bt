@@ -16,7 +16,7 @@
 
 #include "btintel.h"
 
-#define VERSION "0.1"
+#define VERSION "0.2"
 
 #define BDADDR_INTEL		(&(bdaddr_t){{0x00, 0x8b, 0x9e, 0x19, 0x03, 0x00}})
 #define RSA_HEADER_LEN		644

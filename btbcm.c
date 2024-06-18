@@ -16,7 +16,7 @@
 
 #include "btbcm.h"
 
-#define VERSION "0.1"
+#define VERSION "0.2"
 
 #define BDADDR_BCM20702A0 (&(bdaddr_t) {{0x00, 0xa0, 0x02, 0x70, 0x20, 0x00}})
 #define BDADDR_BCM20702A1 (&(bdaddr_t) {{0x00, 0x00, 0xa0, 0x02, 0x70, 0x20}})
